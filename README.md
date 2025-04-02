@@ -8,9 +8,9 @@ I’m a technology leader passionate about building high-performing teams and de
   * M.Sc. in Technology Management (System Engineering Specialization) at the [Holon Institute of Technology](https://www.hit.ac.il/academic/industrial_engineering_and_tech_management/msc/)
   * (Student) M.Des in Digital Game Design & Development at [Shenkar](https://en.shenkar.ac.il/departments/design-MDes-games)
   * B.A. Computer Science at the [Open University of Israel](https://www.openu.ac.il/)
-<br>
+
 * 🖥️  Check out my portfolio at [https://igavriel.github.io/portfolio/](https://igavriel.github.io/portfolio/)
-<br>
+
 * 📫  Contact me at [igavriel@gmail.com](mailto:igavriel@gmail.com)
   * Linkedin: [in/igavriel](https://www.linkedin.com/in/igavriel/)
 
